@@ -1,0 +1,32 @@
+.kartica {
+    width: 300px;
+    padding: 10px;
+    background-color: green;
+    border: 10px solid #479398;
+
+    /*zaobljuje kutove elementa*/
+    border-radius: 15px;
+
+    /*dodaje sjenu elementu*/
+    /*10px je x,10px y,15px je spread/blur*/
+    box-shadow: 10px 10px 15px #848403;
+
+    /*sjena teksta*/
+    text-shadow: 2px 3px 5px #982435;
+
+    /*Prozirnost elemeneta*/
+    opacity: 0.8;
+
+    /*linearni gradient*/
+    background:linear-gradient(TO LEFT,#834223,#326238,#832974);
+
+    /*Mijenjanje izgleda/polozaja elementa*/
+    transform: rotate(67deg);
+
+    /*povećava ili smanjuje element*/
+    transform: scale(0.3);
+
+    /*pomicanje elementa*/
+    transform: translate(50px,50px);
+    transform: rotate(67deg) scale(0.3) translate(50px,50px);
+}
