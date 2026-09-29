@@ -1,0 +1,1 @@
+alert("Ovo je poruka iz vanjske script.js datoteke!");
