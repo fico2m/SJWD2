@@ -1,42 +1,14 @@
+let ime ="Karlo"
+let dob = 7;
+let zanimanje = "Automehaničar"
+let naziv_skole ="SŠNM";
+let brojBodova;
 
-let ime = "Karlo";
+
+
 console.log(ime);
+console.log(dob);
+console.log(zanimanje);
+console.log(naziv_skole);
 
-
-ime = "Matija Kvar";
-console.log(ime);
-
-const skola = "Srednja škola Novi Marof";
-console.log(skola);
-
-
-let grad = "Novi Marof";
-let selo = "Leskovec Toplički";
-
-console.log(grad,selo);
-
-let pb = "42200";
-
-let postanskiBroj = 42200;
-console.log(postanskiBroj);
-
-let prosjek = 4.5;
-console.log(prosjek);
-
-let temperatura = -3;
-console.log(temperatura);
-
-let prisutan = true;
-let predajaZadatka = false;
-
-console.log(prisutan);
-console.log(predajaZadatka);
-
-let ocjena;
-console.log(ocjena);
-
-ocjena =5;
-console.log(ocjena);
-
-let rezultat= null;
-console.log(rezultat);
+console.log(brojBodova):6,7
